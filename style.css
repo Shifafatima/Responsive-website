@@ -20,7 +20,7 @@ nav{
 nav img{
     width: 150px;
 }
-nav-links{
+.nav-links{
     flex: 1;
     text-align: right;
 }
@@ -43,7 +43,7 @@ nav-links{
     display: block;
     margin: auto;
     transition: 0.5s;
-}
+} 
 .nav-links ul li:hover::after{
     width: 100%;
 }
@@ -307,5 +307,5 @@ padding-top:50px;
     padding:18px 0;
 }
 .fa-heart-o{
-    color: #f44336;
+    color: #f44336; 
 }
